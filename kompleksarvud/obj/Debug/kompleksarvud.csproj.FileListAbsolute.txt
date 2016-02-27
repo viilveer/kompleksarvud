@@ -1,0 +1,6 @@
+C:\Users\viilv\Source\Repos\kompleksarvud\kompleksarvud\kompleksarvud\bin\Debug\kompleksarvud.exe.config
+C:\Users\viilv\Source\Repos\kompleksarvud\kompleksarvud\kompleksarvud\bin\Debug\kompleksarvud.exe
+C:\Users\viilv\Source\Repos\kompleksarvud\kompleksarvud\kompleksarvud\bin\Debug\kompleksarvud.pdb
+C:\Users\viilv\Source\Repos\kompleksarvud\kompleksarvud\kompleksarvud\obj\Debug\kompleksarvud.csprojResolveAssemblyReference.cache
+C:\Users\viilv\Source\Repos\kompleksarvud\kompleksarvud\kompleksarvud\obj\Debug\kompleksarvud.exe
+C:\Users\viilv\Source\Repos\kompleksarvud\kompleksarvud\kompleksarvud\obj\Debug\kompleksarvud.pdb
